@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a sample Website project. Adding a line for rebasing example.
+This is a sample Website project. Adding a line for rebasing example, then add more changes from myfeature brnach
 
 ## Introduction
 
