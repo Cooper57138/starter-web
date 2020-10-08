@@ -18,3 +18,4 @@ Section describes project deployment
 
 Section describes how to contribute to this project
 
+2020. Git training
