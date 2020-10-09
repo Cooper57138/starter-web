@@ -16,6 +16,6 @@ Section describes project deployment
 
 ## How to Contribute
 
-Section describes how to contribute to this project. Please fork this repo and issue and pull request.
+Section describes how to contribute to this project.
 
 2020. Git training
