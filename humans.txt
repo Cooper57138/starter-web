@@ -7,9 +7,10 @@
 
 # THANKS
 
-    THanks everyone
+    THanks everyone for your feedback
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
